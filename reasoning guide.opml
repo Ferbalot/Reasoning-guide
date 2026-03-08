@@ -8,7 +8,7 @@
     <ownerEmail>jedibender@gmail.com</ownerEmail>
   </head>
   <body>
-    <outline text="Ferb&apos;s Reasoning Guide            (Pre-Pre-Alpha)" _note="Last updated: Mar 6">
+    <outline text="Ferb&apos;s Reasoning Guide            (Pre-Pre-Alpha)" _note="Last updated: Mar 8">
       <outline text="Guide guide" heading="1" colorLabel="6" collapsed="true">
         <outline text="Intro" heading="1" colorLabel="6" collapsed="true">
           <outline text="This guide is based on classical logic." collapsed="true">
@@ -1796,13 +1796,23 @@
             </outline>
             <outline text="Prior probability" heading="1" colorLabel="4" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
-                <outline text="Probabilities before considering the main typical evidence."/>
-                <outline text="Otherwise known as simply &quot;prior&quot; in the right kind of inductive context."/>
+                <outline text="The credence that should be given to a hypothesis before considering the main evidence." heading="3" colorLabel="3" collapsed="true">
+                  <outline text="Main evidence: The main evidence that would typically* be considered." colorLabel="3" collapsed="true">
+                    <outline text="* Except when the evidence that would typically be considered is [prior evidence](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=xGudJgQHlJyk5nLoeSUyyHmN)."/>
+                  </outline>
+                </outline>
+                <outline text="**Context:**  Otherwise known as simply &quot;prior&quot; in the right kind of inductive context."/>
               </outline>
-              <outline text="Typical prior evidence" heading="2" colorLabel="4">
-                <outline text="Usually priors use Occam&apos;s razor and nothing else." _note="Check if this is right."/>
+              <outline text="Importance" heading="3" colorLabel="2">
+                <outline text="**Impactful:**  Prior probabilies are typically one of the most impactful unknowns." colorLabel="4" collapsed="true">
+                  <outline text="It&apos;s [important](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=cXfd8G1zK1UZ_HGp2aSVkGmK) to account for unknowns." _note="Relevance" colorLabel="4"/>
+                </outline>
+                <outline text="**Improvable:**  Obtaining the prior probability of a claim just involves looking at the ratio of scenarios under which it could be true vs couldn&apos;t be true, which is usually pretty easy to estimate." colorLabel="4"/>
               </outline>
-              <outline text="All prior evidence" heading="1" colorLabel="4">
+              <outline text="Typical prior evidence" heading="2" colorLabel="4" collapsed="true">
+                <outline text="Usually priors use https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=UULVW93uPNRrRBC6RL4mTOjT and nothing else." _note="Check if this is right."/>
+              </outline>
+              <outline text="All prior evidence" heading="1" colorLabel="4" collapsed="true">
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=UULVW93uPNRrRBC6RL4mTOjT" heading="1" colorLabel="4"/>
               </outline>
             </outline>
@@ -2056,16 +2066,14 @@
           </outline>
           <outline text="Epistemic humility" heading="1" colorLabel="6" collapsed="true">
             <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
-              <outline text="A characteristic that emerges from the recognition of the fragility of epistemic confidence." collapsed="true">
-                <outline text="Epistemic confidence: The confidence invested in activities aimed at the acquisition, assessment, and application of knowledge and other epistemic goals."/>
-              </outline>
+              <outline text="General ability to avoid being overconfident."/>
             </outline>
             <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
               <outline text="Impactful" heading="3" collapsed="true">
                 <outline text="Extremely important for avoiding close-minded tendencies." colorLabel="4"/>
-                <outline text="^ Close-minded tendencies are one of the largest contributors to irrationality ever." colorLabel="4"/>
+                <outline text="^ Close-minded tendencies are one of the largest contributors to irrationality ever." _note="Support" colorLabel="4"/>
               </outline>
-              <outline text="[The importance of close-mindedness](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3JYkrvEjUHYENVJaDqFSq3Cd)" colorLabel="4"/>
+              <outline text="[The importance of learning about close-mindedness](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3JYkrvEjUHYENVJaDqFSq3Cd)" colorLabel="4"/>
             </outline>
             <outline text="Open-mindedness (broad)" heading="2" colorLabel="1" collapsed="true">
               <outline text="Definition (broad)" heading="3" colorLabel="3" collapsed="true">
@@ -2217,7 +2225,7 @@
                 </outline>
               </outline>
             </outline>
-            <outline text="Epistemic confidence" heading="2" colorLabel="1" collapsed="true">
+            <outline text="Epistemic self-confidence" heading="2" colorLabel="1" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                 <outline text="Confidence in your reasoning abilities, judgement, etc."/>
               </outline>
@@ -2226,59 +2234,66 @@
                   <outline text="Generally you can avoid most of the detriments of https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=lWWMHYx_Y9FUx5dmOwFNKjmb by having a relatively low epistemic confidence."/>
                 </outline>
               </outline>
-              <outline text="Arrogance" heading="1" colorLabel="1" collapsed="true">
-                <outline text="Definition (epistemic)" heading="3" colorLabel="3" collapsed="true">
-                  <outline text="(A propensity towards) overconfidence." collapsed="true">
-                    <outline text="Oberconfidence: an inaccurately high estimation of one&apos;s own reasoning abilities." colorLabel="3"/>
+              <outline text="Epistemic self-overconfidence" heading="1" colorLabel="1" collapsed="true">
+                <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
+                  <outline text="(A propensity towards) overconfidence in one&apos;s own reasoning abilities." collapsed="true">
+                    <outline text="Overconfidence: an irrationally high credence." colorLabel="3"/>
                   </outline>
                 </outline>
                 <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Impactful" heading="3" collapsed="true">
-                    <outline text="It&apos;s very important to avoid being arrogant." collapsed="true">
-                      <outline text="Very important for [open mindedness (broad)](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=z7LAOrlY0wVUk3aV25kvfWZe)" collapsed="true">
-                        <outline text="[Why you should learn about open mindedness (broad)](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3JYkrvEjUHYENVJaDqFSq3Cd)" colorLabel="2"/>
+                    <outline text="Consistently avoiding epistemic self-overconfidence makes a big difference to reasoning abilities." colorLabel="4" collapsed="true">
+                      <outline text="It&apos;s very important for [open mindedness (broad)](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=z7LAOrlY0wVUk3aV25kvfWZe)" _note="Likelihood" colorLabel="4" collapsed="true">
+                        <outline text="[Importance of open mindedness](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3JYkrvEjUHYENVJaDqFSq3Cd)" _note="Relevance" colorLabel="4"/>
                       </outline>
                     </outline>
-                    <outline text="People typically can&apos;t distinguish between general arrogance and confidence very well."/>
+                    <outline text="Learning about distinguishing between epistemic self-overconfidence and general epistemic self-confidence is impactful." colorLabel="4" collapsed="true">
+                      <outline text="People typically can&apos;t distinguish between epistemic self-overconfidence and general epistemic self-confidence very well." _note="Likelihood" colorLabel="4"/>
+                      <outline text="It would likely make it much easier to see when you are being epistemically self-overconfident." _note="Relevance" colorLabel="4" collapsed="true">
+                        <outline text="With https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=-Y6mOK7W8VxPSxmcb8rXmEjn , it can help you recognize the signs in yourself." _note="Likelihood" colorLabel="4"/>
+                        <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=pl-JKZYg14673cx6UJUbXLev" _note="Relevance" colorLabel="4"/>
+                      </outline>
+                    </outline>
                   </outline>
                   <outline text="Difficult" heading="3" collapsed="true">
-                    <outline text="It&apos;s very difficult to avoid being arrogant."/>
+                    <outline text="It&apos;s very difficult to avoid epistemic self-overconfidence." colorLabel="4"/>
                   </outline>
                   <outline text="Common" heading="3" collapsed="true">
-                    <outline text="A massive portion of people are pretty arrogant." collapsed="true">
-                      <outline text="Often even when they appear on the surface to have a lot of epistemic humility, they often just formed surface-level humility habits to be more accepted within their communities."/>
+                    <outline text="A massive portion of people are overconfident in this way about many topics." colorLabel="4" collapsed="true">
+                      <outline text="Often even when they appear on the surface to have a lot of epistemic humility, they have just formed surface-level agreeable habits." colorLabel="4"/>
                     </outline>
                   </outline>
                 </outline>
-                <outline text="The ways in which arrogance seems like positive confidence" _note="Maybe reorganize this." heading="3" colorLabel="1" collapsed="true">
+                <outline text="The ways in which epistemic self-overconfidence seems like positive confidence" _note="Maybe reorganize this" heading="3" colorLabel="1" collapsed="true">
                   <outline text="It often feels like better reasoning" heading="3" colorLabel="1" collapsed="true">
                     <outline text="It often feels like one must have good evidence/reasoning to be so confident."/>
                   </outline>
                   <outline text="It often feels like higher capability" heading="3" colorLabel="1" collapsed="true">
                     <outline text="It often feels like one must have good evidence/reasoning to be so confident, and therefore that they are very capable."/>
                   </outline>
-                  <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GFutbdsy8y_ZSYeuM2DImKue" heading="3" colorLabel="1"/>
+                  <outline text="Related" heading="3" colorLabel="6" collapsed="true">
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GFutbdsy8y_ZSYeuM2DImKue" heading="3" colorLabel="1"/>
+                  </outline>
                 </outline>
-                <outline text="The ways in which non-arrogance seems like a negative lack of confidence" heading="3" colorLabel="1" collapsed="true">
+                <outline text="The ways in which epistemic humility seems like a bad kind of lack of confidence" heading="3" colorLabel="1" collapsed="true">
                   <outline text="Lack of intelligence" heading="3" collapsed="true">
-                    <outline text="Indication that you didn&apos;t calculate properly. Especially if you had far too much confidence." collapsed="true">
-                      <outline text="This comes from people thinking that it&apos;s much easier to reason in general than it really is." collapsed="true">
-                        <outline text="Everyone is very often wrong all the time." _note="Move and link"/>
-                      </outline>
+                    <outline text="Indication that you didn&apos;t calculate properly." _note="(Especially if you had far too much confidence before changing your mind.)"/>
+                    <outline text="^ This often comes from people thinking that it&apos;s much easier to reason in general than it really is." collapsed="true">
+                      <outline text="Everyone is very often wrong all the time." _note="Move and link here, and connect with https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=qarhXHvwcgUN1n5fnt5sFXck"/>
                     </outline>
                   </outline>
                   <outline text="Lack of backbone" heading="3" collapsed="true">
-                    <outline text="It often feels like changing your mind is a sign of weakness/gullibility even when it isn&apos;t."/>
+                    <outline text="It often feels like changing your mind is a sign of weakness/gullibility, even when it isn&apos;t."/>
                   </outline>
                 </outline>
                 <outline text="Related" heading="3" colorLabel="6" collapsed="true">
-                  <outline text="[Pride](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GdWZXDTEkI9DW_5ydfmnRxce)" heading="1" colorLabel="1"/>
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=z7LAOrlY0wVUk3aV25kvfWZe" heading="3" colorLabel="1"/>
+                  <outline text="[Pride](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GdWZXDTEkI9DW_5ydfmnRxce)" heading="1" colorLabel="1"/>
+                  <outline text="https://en.wikipedia.org/wiki/Hubris"/>
                 </outline>
-                <outline text="https://en.wikipedia.org/wiki/Hubris"/>
               </outline>
             </outline>
-            <outline text="The knife&apos;s edge of humility" _note="Link/combine with emotional/epistemic confidence." heading="3" colorLabel="1" collapsed="true">
+            <outline text="The knife&apos;s edge of humility" _note="Link/combine with emotional/epistemic self-confidence." heading="3" colorLabel="1" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                 <outline text="The issues that epistemic humility can cause."/>
               </outline>
@@ -2313,7 +2328,7 @@
               </outline>
               <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=5Qlio6RfNJC5UcTvCa9o-7SX" heading="1" colorLabel="2"/>
             </outline>
-            <outline text="Habits" heading="1" colorLabel="1" collapsed="true">
+            <outline text="Habits" _note="Probably move out of the &quot;how to learn&quot; category, since it&apos;s more broad than that." heading="1" colorLabel="1" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                 <outline text="Routines of [behavior](https://en.wikipedia.org/wiki/Behavior) that are repeated regularly and tend to occur [subconsciously](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=r2u3zb8iZbtZCj5aZBVmU0ON)"/>
                 <outline text="Synonym" heading="3" colorLabel="3" collapsed="true">
@@ -3374,7 +3389,7 @@
               <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=W7HyxLRMyYcuGQTUpyV2gLDq" heading="1" colorLabel="1"/>
             </outline>
           </outline>
-          <outline text="Misc" heading="1" colorLabel="6">
+          <outline text="Misc" heading="1" colorLabel="6" collapsed="true">
             <outline text="Self-awareness" heading="1" colorLabel="1" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                 <outline text="(Amount of) awareness of one&apos;s own self."/>
@@ -4021,21 +4036,6 @@
                   <outline text="Cognitive biases are incredibly common." _note="Support" colorLabel="4"/>
                 </outline>
               </outline>
-              <outline text="Tendency to fail to sufficiently account for unknowns" _note="PC Partially combine this with accounting for unknowns" heading="3" colorLabel="1" collapsed="true">
-                <outline text="Importance" heading="3" colorLabel="2">
-                  <outline text="Failing to sufficiently account for all the biggest ways in which people could be wrong.">
-                    <outline text=""/>
-                  </outline>
-                  <outline text="Leaning too much towards extremes " heading="3">
-                    <outline text="This often causes us to lean towards much more extreme probabilities than we really ought to."/>
-                  </outline>
-                </outline>
-                <outline text="How it happens" heading="1" colorLabel="1"/>
-                <outline text="Solutions" heading="1" colorLabel="2"/>
-                <outline text="Related" heading="3" colorLabel="6">
-                  <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=cXfd8G1zK1UZ_HGp2aSVkGmK" heading="3" colorLabel="6"/>
-                </outline>
-              </outline>
               <outline text="Base rate fallacy" heading="3" colorLabel="1" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3">
                   <outline text="[Wikipedia](https://en.wikipedia.org/wiki/Base_rate_fallacy)"/>
@@ -4175,7 +4175,7 @@
                   <outline text="The tendency for flaws in reasoning to sort of &quot;even out&quot; for most hypotheses, making the majority&apos;s opinion more reliable usually."/>
                 </outline>
               </outline>
-              <outline text="Anchoring/framing effects" heading="3" colorLabel="1" collapsed="true">
+              <outline text="Anchoring/framing effects" heading="3" colorLabel="1">
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="The bias to consider values in the context of other presented values."/>
                   <outline text="Example" heading="3" colorLabel="6" collapsed="true">
@@ -4184,16 +4184,46 @@
                 </outline>
                 <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Impactful" heading="3" collapsed="true">
-                    <outline text="Especially impactful when it biases us to consider an overly-limited range of potential values." colorLabel="4"/>
+                    <outline text="Especially impactful when it biases us to consider an overly-limited range of potential values." colorLabel="4" collapsed="true">
+                      <outline text="See https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HqeODo74AAT86530mLDuvEMf" colorLabel="4"/>
+                    </outline>
                   </outline>
                   <outline text="Common" heading="3" collapsed="true">
                     <outline text="Incredibly commonly abused by marketers and salespeople." colorLabel="4"/>
                   </outline>
                   <outline text="Improvable" heading="3" collapsed="true">
-                    <outline text="We can learn to consider important, unpresented values to compare something with." colorLabel="4"/>
+                    <outline text="We can learn to consider unpresented values to compare something with." colorLabel="4" collapsed="true">
+                      <outline text="Many of the most common and important unpresented values are fundamentally pretty easy to account for." colorLabel="4" collapsed="true">
+                        <outline text="Example: [prior probability](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=p27oF333OJQDubxwMG2_gtog)" colorLabel="6"/>
+                      </outline>
+                    </outline>
                   </outline>
                 </outline>
-                <outline text="Less-is-better effect" heading="1" colorLabel="1" collapsed="true">
+                <outline text="Failure to (sufficiently) account for unknowns" heading="1" colorLabel="1">
+                  <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
+                    <outline text="**Unknowns:**  Unknown factors relevant to the claim(s) you&apos;re considering." colorLabel="3"/>
+                  </outline>
+                  <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=NQqQgRCBkQi_8NvWlOhzlMob" heading="3" colorLabel="2"/>
+                  <outline text="Causes" heading="1" colorLabel="1">
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=QbiCWrDMPM38d8BpMPryvG49" heading="3" colorLabel="2" collapsed="true">
+                      <outline text="Typically we simply do not have the https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU to account for all the biggest potential unknowns. We instead heavily rely on unreliable reasoning short-cuts and engage in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=waIk3BhYJ4eBaM4bzQtwem37 , which tends not to be the best way to consistently account for the biggest potential unknowns."/>
+                    </outline>
+                    <outline text="[Unsystematic reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7)" heading="3" colorLabel="5" collapsed="true">
+                      <outline text="We typically lack the https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU to investigate arguments in a systematic fashion, which would typically involve (or at least help with) accounting for all the biggest potential unknowns."/>
+                    </outline>
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=bSMtThDFt7oQ1Ij8zu5EISOR" heading="3" colorLabel="1" collapsed="true">
+                      <outline text="Often when considering other peoples&apos; claims (particularly those from those we are close with), we will be less [critical](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HFlajn-7ApUXftkQMGXZHVWq) and more agreeable."/>
+                    </outline>
+                  </outline>
+                  <outline text="Solutions" heading="1" colorLabel="2" collapsed="true">
+                    <outline text="Many specific strategies to account for unknowns are in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=cXfd8G1zK1UZ_HGp2aSVkGmK" heading="3" colorLabel="6"/>
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7" heading="3" colorLabel="5"/>
+                  </outline>
+                  <outline text="Related" heading="3" colorLabel="6" collapsed="true">
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=cXfd8G1zK1UZ_HGp2aSVkGmK" heading="3" colorLabel="6"/>
+                  </outline>
+                </outline>
+                <outline text="Less-is-better effect" heading="3" colorLabel="1" collapsed="true">
                   <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                     <outline text="The cognitive bias to favor a lesser option when it is presented separately, but to prefer the better option when both are presented together."/>
                     <outline text="Examples" heading="3" colorLabel="6" collapsed="true">
@@ -4261,7 +4291,7 @@
                 </outline>
               </outline>
               <outline text="The availability heuristic" heading="3" colorLabel="1" collapsed="true">
-                <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
+                <outline text="Definition" heading="3" colorLabel="3">
                   <outline text="The bias to assume that the likelihood of something is heavily correlated with how readily it comes to mind (its “salience”)."/>
                 </outline>
                 <outline text="Bias towards the stated" heading="3" colorLabel="1" collapsed="true">
@@ -4390,7 +4420,7 @@
                       </outline>
                     </outline>
                     <outline text="Events whose probabilities are not independent due to hidden factors." collapsed="true">
-                      <outline text="For example, if a coin is flipped 21 times, the probability of 21 heads with a fair coin is 1 in 2,097,152. Since this probability is so small, if it happens, it may well be that the coin is somehow biased towards landing on heads, or that it is being controlled by hidden magnets, or similar. In this case, the smart bet is &quot;heads&quot; because Bayesian inference from the empirical evidence — 21 heads in a row — suggests that the coin is likely to be biased toward heads. Bayesian inference can be used to show that when the long-run proportion of different outcomes is unknown but exchangeable (meaning that the random process from which the outcomes are generated may be biased but is equally likely to be biased in any direction) and that previous observations demonstrate the likely direction of the bias, the outcome which has occurred the most in the observed data is the most likely to occur again."/>
+                      <outline text="For example, if a coin is flipped 21 times, the probability of 21 heads with a fair coin is 1 in 2,097,152. Since this probability is so small, if it happens, it may well be that the coin is somehow biased towards landing on heads, or that it is being controlled by hidden magnets, or similar. In this case, the smart bet is &quot;heads&quot; because Bayesian inference from the empirical evidence — 21 heads in a row — suggests that the coin is likely to be biased toward heads. Bayesian inference can be used to show that when the long-run proportion of different outcomes is unknown but exchangeable (meaning that the random process from which the outcomes are generated may be biased but is equally likely to be biased in any direction) and that previous observations demonstrate the likely direction of the bias, the outcome which has occurred the most in the observed data is the most likely to occur again." colorLabel="6"/>
                     </outline>
                     <outline text="Events whose probabilities change" collapsed="true">
                       <outline text="If external factors are allowed to change the probability of the events, the gambler&apos;s fallacy may not hold. For example, a change in the game rules might favour one player over the other, improving their win percentage. Similarly, an inexperienced player&apos;s success may decrease after opposing teams learn about and play against their weaknesses. This is another example of bias."/>
@@ -4753,7 +4783,7 @@
                 <outline text="&quot;The Righteous Mind&quot; by Jonathan Haidt - Chapter: We are all intuitive politicians."/>
               </outline>
               <outline text=""/>
-              <outline text="Exploratory thought" heading="3" colorLabel="1">
+              <outline text="Exploratory thought" heading="3" colorLabel="1" collapsed="true">
                 <outline text="An evenhanded consideration of alternative points of view." colorLabel="3"/>
               </outline>
             </outline>
@@ -6347,15 +6377,15 @@
             <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=sIhUl5bUKOXpAdiGnystrHw4" heading="3" colorLabel="2"/>
           </outline>
         </outline>
-        <outline text="Misc" heading="1" colorLabel="6" collapsed="true">
+        <outline text="Misc" heading="1" colorLabel="6">
           <outline text="Systematic reasoning" _note="Amateur" heading="1" colorLabel="5" collapsed="true">
             <outline text="Definitions" heading="3" colorLabel="3" collapsed="true">
               <outline text="Thorough, precise reasoning, similar to formal reasoning."/>
             </outline>
             <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
-              <outline text="Impactful" heading="3">
+              <outline text="Impactful" heading="3" collapsed="true">
                 <outline text="Systematic reasoning (done right) can be very reliable." colorLabel="4"/>
-                <outline text="Unsystematic reasoning is typically very unreliable." colorLabel="4">
+                <outline text="Unsystematic reasoning is typically very unreliable." colorLabel="4" collapsed="true">
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=waIk3BhYJ4eBaM4bzQtwem37 is always substantially involved in unsystematic reasoning." heading="3" colorLabel="1" collapsed="true">
                     <outline text="And it&apos;s almost unavoidably quite unreliable."/>
                   </outline>
@@ -6374,16 +6404,17 @@
                 <outline text="Unsystematic reasoning makes it much harder to realize when we&apos;re wrong." colorLabel="4"/>
               </outline>
               <outline text="Common" heading="3" collapsed="true">
-                <outline text="Our reasoning is almost always very unsystematic" heading="3" collapsed="true">
-                  <outline text="Our reasoning is almost always informal" heading="3"/>
-                  <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=bB6JLP6nZ8-ccbYtk7RCq1Tt" heading="3"/>
+                <outline text="Our reasoning is almost always very unsystematic." collapsed="true">
+                  <outline text="Our reasoning is almost always [Informal](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=yQVWivooam-CWEWkiSH8D5Gu)" _note="Likelihood" colorLabel="4" collapsed="true">
+                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=bB6JLP6nZ8-ccbYtk7RCq1Tt" _note="Relevance" colorLabel="4"/>
+                  </outline>
                 </outline>
               </outline>
             </outline>
             <outline text="Precision" heading="1" colorLabel="2" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
-                <outline text="Distinction" heading="3" colorLabel="3" collapsed="true">
-                  <outline text="Different from specificity." collapsed="true">
+                <outline text="Distinction" heading="3" colorLabel="3">
+                  <outline text="Different from specificity.">
                     <outline text="It is possible for something to be broad but precisely defined/understood."/>
                     <outline text="It is possible for something to be specific but not precisely defined/understood."/>
                   </outline>
@@ -6399,6 +6430,10 @@
               </outline>
             </outline>
             <outline text="Thoroughness" heading="1" colorLabel="2" collapsed="true">
+              <outline text="Multi-claim" heading="1" colorLabel="5"/>
+              <outline text="Per-claim" heading="1" colorLabel="5" collapsed="true">
+                <outline text="Usually involves accounting for [prior probabilities](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=WtCnPwTlo9i-Whi4OhvH_ZQd)" heading="3" colorLabel="4"/>
+              </outline>
               <outline text="Related" heading="3" colorLabel="6" collapsed="true">
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=waIk3BhYJ4eBaM4bzQtwem37" heading="3" colorLabel="2"/>
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=cXfd8G1zK1UZ_HGp2aSVkGmK" heading="3" colorLabel="6"/>
@@ -6408,7 +6443,13 @@
           </outline>
           <outline text="Accounting for unknowns" heading="1" colorLabel="6" collapsed="true">
             <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
-              <outline text="We have a tendency to instinctually focus on only the things that we have explicitly accounted for, without accounting for much of the uncertainty that we would ideally account for."/>
+              <outline text="Common" heading="3" collapsed="true">
+                <outline text="We have a tendency to focus on only the things that we have explicitly accounted for, without accounting for much of the uncertainty that we would ideally account for." colorLabel="4"/>
+                <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=X_nTX0Yfk9EuT8wiLvWk7Yck" colorLabel="4"/>
+              </outline>
+              <outline text="Impactful" heading="3" collapsed="true">
+                <outline text="[Overconfidence](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=6dfZL4s3LjJlqjUv7pk86tV4) often causes us to lean towards much more extreme probabilities than we really ought to." colorLabel="4"/>
+              </outline>
             </outline>
             <outline text="Reading between the lines" heading="1" colorLabel="2" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3"/>
@@ -6668,10 +6709,14 @@
               </outline>
             </outline>
             <outline text="Related" heading="3" colorLabel="6" collapsed="true">
-              <outline text="[Not accounting for unknowns](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HqeODo74AAT86530mLDuvEMf)" heading="3" colorLabel="1"/>
+              <outline text="[Prior probabilities](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=WtCnPwTlo9i-Whi4OhvH_ZQd)" heading="1" colorLabel="4" collapsed="true">
+                <outline text="Often one of the most important unknowns to account for. ([source](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=THdiKHErbTGYJvqcfGOasDCk))"/>
+              </outline>
+              <outline text="[Not accounting for unknowns](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HqeODo74AAT86530mLDuvEMf)" heading="3" colorLabel="1" collapsed="true">
+                <outline text="This explains some of the causes of failing to account for unknowns."/>
+              </outline>
               <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=5Qlio6RfNJC5UcTvCa9o-7SX" heading="3" colorLabel="2"/>
               <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=W7VkGKlZfqI3D-chGqzjjpwn" heading="3" colorLabel="2"/>
-              <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HqeODo74AAT86530mLDuvEMf" heading="3" colorLabel="1"/>
             </outline>
           </outline>
           <outline text="Cooperative reasoning" heading="1" colorLabel="6" collapsed="true">
@@ -6771,8 +6816,8 @@
               <outline text="Definition (specific)" heading="3" colorLabel="3" collapsed="true">
                 <outline text="Surrounding yourself with people who have the best effect on your reasoning possible."/>
               </outline>
-              <outline text="Importance" heading="3" colorLabel="2">
-                <outline text="Impactful" heading="3">
+              <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
+                <outline text="Impactful" heading="3" collapsed="true">
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=YyD_sS-IEs8BBBd-ah4thKyI" heading="3" colorLabel="2"/>
                 </outline>
                 <outline text="Difficult" heading="3" collapsed="true">
@@ -6785,7 +6830,7 @@
                 </outline>
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GwE6-NAbRo2iIVWkvYqwdzpK" heading="3" colorLabel="2"/>
               </outline>
-              <outline text="Related" heading="3" colorLabel="6">
+              <outline text="Related" heading="3" colorLabel="6" collapsed="true">
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=YyD_sS-IEs8BBBd-ah4thKyI" heading="3" colorLabel="1"/>
               </outline>
             </outline>
@@ -6964,7 +7009,7 @@
                     </outline>
                     <outline text="[...] so it is pretty much useless." colorLabel="4" collapsed="true">
                       <outline text="It&apos;s useful for showing people who accept inductive inference that it is reliable." complete="true" colorLabel="1" collapsed="true">
-                        <outline text="There is some added value in showing that inductive inferences are reliable, even when we already accept that there is nothing problematic about them." colorLabel="4">
+                        <outline text="There is some added value in showing that inductive inferences are reliable, even when we already accept that there is nothing problematic about them." colorLabel="4" collapsed="true">
                           <outline text="If &quot;there is nothing problematic about them&quot; is defined to preclude inconsistency, then this is equivalent to saying &quot;there is some value in showing x even when we already know x&quot;, and it&apos;s false." colorLabel="1"/>
                         </outline>
                         <outline text="The inductive justification of induction provides a kind of important consistency check on our existing beliefs." complete="true" colorLabel="4" collapsed="true">
@@ -6997,7 +7042,7 @@
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="Quicker but less reliable reasoning methods built on shower and more reliable methods."/>
                 </outline>
-                <outline text="Importance" heading="3" colorLabel="2">
+                <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
                   <outline text="It allows us to know to (and to some degree how to) default to more reliable methods when the less reliable ones come into sufficient question."/>
                 </outline>
               </outline>
@@ -7113,14 +7158,14 @@
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=QPYK9FVR9vJVazmsKRYBSnT8" heading="3" colorLabel="5" collapsed="true">
                   <outline text="The deductive form."/>
                 </outline>
-                <outline text="Inductive ad absurdum" heading="3" colorLabel="4">
+                <outline text="Inductive ad absurdum" heading="3" colorLabel="4" collapsed="true">
                   <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                     <outline text="An argument that following the logic of a proposition or argument leads to an overly unlikely outcome, and thus that the proposition/argument is more likely to be flawed than it other would be."/>
                     <outline text="Distinction" heading="3" colorLabel="3" collapsed="true">
                       <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HcBO8q0z-StpkEjtE3kNTzMz"/>
                     </outline>
                   </outline>
-                  <outline text="Limitation" heading="3" colorLabel="2">
+                  <outline text="Limitation" heading="3" colorLabel="2" collapsed="true">
                     <outline text="Often largely based on an https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HcBO8q0z-StpkEjtE3kNTzMz"/>
                   </outline>
                 </outline>
@@ -7533,7 +7578,7 @@
                 </outline>
               </outline>
               <outline text="Related" heading="3" colorLabel="6" collapsed="true">
-                <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU" heading="1" colorLabel="1">
+                <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU" heading="1" colorLabel="1" collapsed="true">
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=2Oq_Nflns6FYJge43Luq9w0h" heading="1" colorLabel="1"/>
                 </outline>
               </outline>
@@ -7622,7 +7667,7 @@
                   </outline>
                 </outline>
               </outline>
-              <outline text="Research methodology" heading="3" colorLabel="2">
+              <outline text="Research methodology" heading="3" colorLabel="2" collapsed="true">
                 <outline text="Primary sources" heading="3" colorLabel="5" collapsed="true">
                   <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                     <outline text="Immediate, first-hand accounts of a topic, from people who had a direct connection with it."/>
@@ -7630,7 +7675,7 @@
                   </outline>
                   <outline text="Importance" heading="3" colorLabel="2"/>
                 </outline>
-                <outline text="Credibility" heading="3" colorLabel="2">
+                <outline text="Credibility" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Conflicts of interest" heading="3" colorLabel="1"/>
                 </outline>
               </outline>
@@ -8384,7 +8429,7 @@
             </outline>
             <outline text="Presumptuous reasoning" heading="2" colorLabel="1" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3"/>
-              <outline text="Recognizing presumptuous reasoning" heading="3" colorLabel="2">
+              <outline text="Recognizing presumptuous reasoning" heading="3" colorLabel="2" collapsed="true">
                 <outline text="Common forms" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                     <outline text="Common forms of presumptuous reasoning."/>
@@ -8601,7 +8646,7 @@
                   <outline text="The representativeness heuristic is used when making judgments about the probability of an event being representational in character and essence of a known prototypical event.[1] It is one of a group of heuristics (simple rules governing judgment or decision-making) proposed by psychologists Amos Tversky and Daniel Kahneman in the early 1970s as &quot;the degree to which [an event] (i) is similar in essential characteristics to its parent population, and (ii) reflects the salient features of the process by which it is generated&quot;.[1] The representativeness heuristic works by comparing an event to a prototype or stereotype that we already have in mind. For example, if we see a person who is dressed in eccentric clothes and reading a poetry book, we might be more likely to think that they are a poet than an accountant. This is because the person&apos;s appearance and behavior are more representative of the stereotype of a poet than an accountant."/>
                   <outline text="The representativeness heuristic can be a useful shortcut in some cases, but it can also lead to errors in judgment. For example, if we only see a small sample of people from a particular group, we might overestimate the degree to which they are representative of the entire group. Heuristics are described as &quot;judgmental shortcuts that generally get us where we need to go – and quickly – but at the cost of occasionally sending us off course.&quot;[2] Heuristics are useful because they use effort-reduction and simplification in decision-making.[3]When people rely on representativeness to make judgments, they are likely to judge wrongly because the fact that something is more representative does not actually make it more likely.[4] The representativeness heuristic is simply described as assessing similarity of objects and organizing them based around the category prototype (e.g., like goes with like, and causes and effects should resemble each other). This heuristic is used because it is an easy computation. The problem is that people overestimate its ability to accurately predict the likelihood of an event. Thus, it can result in [neglect of relevant base rates](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=PvpKwaS4egxN1pbrRVVNRd3Z) and other cognitive biases." _note="Link to neglect of relevant base rates"/>
                 </outline>
-                <outline text="Related" heading="3" colorLabel="6">
+                <outline text="Related" heading="3" colorLabel="6" collapsed="true">
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=waIk3BhYJ4eBaM4bzQtwem37" heading="3" colorLabel="2"/>
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=r2u3zb8iZbtZCj5aZBVmU0ON" heading="3" colorLabel="1"/>
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=-w78YkQxgEL2dSTbSG6DvfBJ" colorLabel="1"/>
@@ -8621,17 +8666,18 @@
               <outline text="Definition" heading="3" colorLabel="3"/>
               <outline text="Importance / Limitations" heading="3" colorLabel="2" collapsed="true">
                 <outline text="Impactful" heading="3" collapsed="true">
-                  <outline text="Often the best/only method for finding a good answer" colorLabel="4">
+                  <outline text="Often the best/only method for finding a good answer" colorLabel="4" collapsed="true">
                     <outline text="Many important hypotheses cannot be empirically tested but can be rationally investigated to a sufficient degree to come to a reasonable conclusion." colorLabel="4"/>
                   </outline>
-                  <outline text="Inventions / Innovations" heading="3" colorLabel="4">
+                  <outline text="Inventions / Innovations" heading="3" colorLabel="4" collapsed="true">
                     <outline text="Virtually all inventions/innovations were based on a good amount of theoretical reasoning, especially the more significant ones." collapsed="true">
                       <outline text="Eg. Computers" colorLabel="6"/>
                     </outline>
                   </outline>
-                  <outline text="Easy to overlook practical obstacles" colorLabel="1">
-                    <outline text="We often fail to properly account for unknown practical challenges." _note="Link bias(es)" colorLabel="4" collapsed="true">
-                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=zRXP26n914iccTGdJXRxB69C" colorLabel="4"/>
+                  <outline text="Easy to overlook practical obstacles" colorLabel="1" collapsed="true">
+                    <outline text="We often fail to properly account for unknown practical challenges." colorLabel="4" collapsed="true">
+                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=HqeODo74AAT86530mLDuvEMf" _note="Likelihood" colorLabel="4"/>
+                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=zRXP26n914iccTGdJXRxB69C" _note="Likelihood" colorLabel="4"/>
                     </outline>
                     <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=sslHc9-gXfi27WFQHol-J5hU" colorLabel="4"/>
                     <outline text="We are often biased to assume that the practical obstacles cannot be overcame." colorLabel="1" collapsed="true">
@@ -8641,7 +8687,7 @@
                   </outline>
                 </outline>
                 <outline text="Difficult" heading="3" collapsed="true">
-                  <outline text="It is one of the easiest areas for [confirmatory reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=OrIjqF9wWhAuAxUvnk078FOy) to creep in (both for and against some theoretical reasoning), because it implicitly involves starting with a conclusion." colorLabel="4">
+                  <outline text="It is one of the easiest areas for [confirmatory reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=OrIjqF9wWhAuAxUvnk078FOy) to creep in (both for and against some theoretical reasoning), because it implicitly involves starting with a conclusion." colorLabel="4" collapsed="true">
                     <outline text="Against because: If one sees theoretical reasoning for a claim they disagree with, they will (typically subconsciously) begin with the conclusion that it is wrong." colorLabel="4"/>
                     <outline text="^ https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=OrIjqF9wWhAuAxUvnk078FOy"/>
                   </outline>
@@ -8667,7 +8713,7 @@
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=l4ypO5YkR15Gt6nG4SYw6KKi" heading="3" colorLabel="4"/>
                 </outline>
               </outline>
-              <outline text="Related" heading="3" colorLabel="6">
+              <outline text="Related" heading="3" colorLabel="6" collapsed="true">
                 <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=Ddzvc06L23MljpQS9N8Fm3rS" colorLabel="1"/>
               </outline>
             </outline>
@@ -8735,14 +8781,14 @@
                   </outline>
                 </outline>
               </outline>
-              <outline text="Mostly-normal text" heading="1" colorLabel="2">
+              <outline text="Mostly-normal text" heading="1" colorLabel="2" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3"/>
                 <outline text="How to view it" heading="3" colorLabel="2"/>
-                <outline text="Importance / limitations" heading="1" colorLabel="2">
+                <outline text="Importance / limitations" heading="1" colorLabel="2" collapsed="true">
                   <outline text="Thorough: Typically easier to be thorough than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
                   <outline text="Systematic: Typically easier to be [systematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7) then in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
                   <outline text="Context: Typically easier to know what was previously stated." colorLabel="4"/>
-                  <outline text="Systematic: Typically very [unsystematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7)." colorLabel="1">
+                  <outline text="Systematic: Typically very [unsystematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7)." colorLabel="1" collapsed="true">
                     <outline text="Rather than responding point by point to each point that the other person made, people tend to focus more on addressing the &quot;vibes&quot; or apparent &quot;main point&quot;, often missing a lot of important details."/>
                   </outline>
                   <outline text="Clarification: Typically harder to ask for quick clarifications than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="1" collapsed="true">
@@ -8816,12 +8862,12 @@
                   </outline>
                 </outline>
               </outline>
-              <outline text="Argument mapping" heading="1" colorLabel="2">
+              <outline text="Argument mapping" heading="1" colorLabel="2" collapsed="true">
                 <outline text="Colors" heading="3" collapsed="true">
                   <outline text="I used colors here in a different way than anywhere else, just to fit the theme of the sites mentioned. Sorry."/>
                 </outline>
                 <outline text="Definition" heading="3" colorLabel="3"/>
-                <outline text="Importance / limitations" heading="3" colorLabel="2">
+                <outline text="Importance / limitations" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Encourages much more structured reasoning" heading="3" colorLabel="4" collapsed="true">
                     <outline text="We tend to have a ton of mental habits for taking unreliable [Reasoning short-cuts](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=QbiCWrDMPM38d8BpMPryvG49), and argument mapping encourages us to reason more consciously and thoroughly." _note="Link for tendency probably" colorLabel="4" collapsed="true">
                       <outline text="Argument mapping encourages us to reason more consciously and thoroughly." _note="Support" colorLabel="4"/>
@@ -8834,11 +8880,24 @@
                     <outline text="This saves time, [which is important](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=FAE5Snb_O1pGzF4zHU-u5_VU)" _note="Relevance" colorLabel="4"/>
                   </outline>
                   <outline text="Less context for the reader" heading="3" colorLabel="1" collapsed="true">
-                    <outline text="This results in a substantially greater likelihood of misunderstandings." _note="Relevance" colorLabel="4">
+                    <outline text="This results in a substantially greater likelihood of misunderstandings." _note="Relevance" colorLabel="4" collapsed="true">
                       <outline text="This wastes time, [which is impactful](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=FAE5Snb_O1pGzF4zHU-u5_VU)" _note="Relevance" colorLabel="4"/>
-                      <outline text="The difference would not be substantial, as even with context misunderstandings about unfamiliar words are common." _note="Likelihood" colorLabel="1"/>
+                      <outline text="The difference in likelihood would not be substantial, as even normally, context misunderstandings about unfamiliar words are very common." _note="Likelihood" colorLabel="1"/>
                       <outline text="A policy of using clearer definitions can be employed, to avoid that consequence." _note="Likelihood" colorLabel="1" collapsed="true">
-                        <outline text="This would be difficult to get used to, and thus employed inconsistently." _note="Likelihood" colorLabel="1"/>
+                        <outline text="The platform can be created around a user-built dictionary." _note="Likelihood" colorLabel="4"/>
+                        <outline text="This would be difficult to get used to." _note="Likelihood" colorLabel="1" collapsed="true">
+                          <outline text="It would thus be employed inconsistently." _note="Relevance" colorLabel="4" collapsed="true">
+                            <outline text="There can be groups who are willing to take the time to be thorough and apply it consistently." _note="Likelihood" colorLabel="1" collapsed="true">
+                              <outline text="Most users would not be willing to do this." _note="Relevance" colorLabel="1" collapsed="true">
+                                <outline text="We can slowly teach users such that they feel comfortable doing it, and would be willing to." _note="Likelihood" colorLabel="1"/>
+                                <outline text="For many cases, we do not need to appeal to most users." _note="Relevance" colorLabel="1"/>
+                              </outline>
+                            </outline>
+                          </outline>
+                          <outline text="Users would thus not engage, due to the challenge of using the policy being too great." _note="Relevance" colorLabel="4" collapsed="true">
+                            <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=NPvSvJHsb1veKdYIhbw0ESq4" colorLabel="1"/>
+                          </outline>
+                        </outline>
                         <outline text="This wastes time, [which is impactful](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=FAE5Snb_O1pGzF4zHU-u5_VU)" _note="Relevance" colorLabel="1"/>
                       </outline>
                       <outline text="Among groups who are already familiar with one another&apos;s definitions, the likelihood is not substantially greater." _note="Likelihood" colorLabel="1" collapsed="true">
@@ -8851,6 +8910,11 @@
                       <outline text="The reader would likely be able to identify most of that reasoning as unimportant from the titles of the arguments in/under which the important reasoning resides." _note="Relevance" colorLabel="1" collapsed="true">
                         <outline text="There wouldn&apos;t be many titles that would have to be recognized for this, therefore not much time would be wasted." _note="Relevance" colorLabel="4"/>
                       </outline>
+                    </outline>
+                  </outline>
+                  <outline text="Usually slower back-and-forth" heading="3" colorLabel="1" collapsed="true">
+                    <outline text="This means a longer time before misinterpretations can be resolved." _note="Relevance" colorLabel="4" collapsed="true">
+                      <outline text="This wastes time, [which is impactful](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=FAE5Snb_O1pGzF4zHU-u5_VU)" _note="Relevance" colorLabel="4"/>
                     </outline>
                   </outline>
                   <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=RYIGKqcjbIIsUmq-ABVAvGWc" heading="3"/>
@@ -8968,8 +9032,8 @@
                   <outline text="Most people are pretty bad at having good mindsets for reasoning" heading="3"/>
                 </outline>
               </outline>
-              <outline text="Practicing reasoning" heading="1" colorLabel="2">
-                <outline text="Importance" heading="3" colorLabel="2">
+              <outline text="Practicing reasoning" heading="1" colorLabel="2" collapsed="true">
+                <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
                   <outline text="Very important goal for establishing good habits."/>
                 </outline>
               </outline>
