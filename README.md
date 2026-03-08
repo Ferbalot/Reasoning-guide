@@ -5,4 +5,4 @@
 # Reasoning guide
 A guide for general reasoning and critical thinking.
 
-# ![Read online](https://dynalist.io/d/CxbQ35ZoW1aTcFuUr5FezbuM#collapse&theme=dark)
+# [Read online](https://dynalist.io/d/CxbQ35ZoW1aTcFuUr5FezbuM#collapse&theme=dark)
