@@ -8,7 +8,7 @@
     <ownerEmail>jedibender@gmail.com</ownerEmail>
   </head>
   <body>
-    <outline text="Ferb&apos;s Reasoning Guide            (Pre-Pre-Alpha)" _note="Last updated: Mar 8">
+    <outline text="Ferb&apos;s Reasoning Guide            (Pre-Alpha)            v0.1.1" _note="Last updated: Mar 16">
       <outline text="Guide guide" heading="1" colorLabel="6" collapsed="true">
         <outline text="Intro" heading="1" colorLabel="6" collapsed="true">
           <outline text="This guide is based on classical logic." collapsed="true">
@@ -2087,35 +2087,37 @@
                   </outline>
                 </outline>
               </outline>
-              <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
-                <outline text="Impactful and common" heading="3" collapsed="true">
-                  <outline text="For those who use the right strategies, it&apos;s typically much more impactful than criticalness because of https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=F6oszHuNAfhf9o8bwqy0goGm" colorLabel="4"/>
-                  <outline text="Close mindedness of a substantially detrimental degree is very common." colorLabel="4" collapsed="true">
+              <outline text="Importance / limitations" heading="3" colorLabel="2" collapsed="true">
+                <outline text="Common" heading="3" collapsed="true">
+                  <outline text="Close mindedness is very common." colorLabel="4" collapsed="true">
                     <outline text="If it weren&apos;t, people wouldn&apos;t disagree so much on topics with a lot of [&quot;Soft&quot; reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=VqyTyvLNbJ6WtfifAe0egZtQ)" colorLabel="4"/>
-                    <outline text="Examples of bad close mindedness being very common" colorLabel="6" collapsed="true">
+                    <outline text="Examples of close mindedness being very common" colorLabel="6" collapsed="true">
                       <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3tGf0RdhE2v34AnB42-yWyqu"/>
                     </outline>
                   </outline>
+                </outline>
+                <outline text="Impactful" heading="3" collapsed="true">
+                  <outline text="For those who use the right strategies, it&apos;s typically much more impactful than criticalness because of https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=F6oszHuNAfhf9o8bwqy0goGm" colorLabel="4"/>
                   <outline text="For those who use the wrong strategies, it&apos;s very bad." colorLabel="4" collapsed="true">
                     <outline text="Examples of lacking epistemic humility being extremely bad for reasoning" colorLabel="6" collapsed="true">
                       <outline text="[Three out of three Verizon employees believe that $0.002 = ¢0.002](https://youtu.be/nUpZg-Ua5ao?si=ysSxbuts4S6LLFTD)"/>
+                    </outline>
+                  </outline>
+                  <outline text="The usefulness of open-mindedness is very dependent on knowledge and criticalness." colorLabel="1" collapsed="true">
+                    <outline text="Criticalness" heading="3" collapsed="true">
+                      <outline text="With insufficient criticalness (and/or insufficient https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=F6oszHuNAfhf9o8bwqy0goGm), it&apos;s going to be very difficult to properly filter the information you recieve and determine what makes the most sense."/>
+                    </outline>
+                    <outline text="Knowledge" heading="3" collapsed="true">
+                      <outline text="If you don&apos;t have the important info in the first place, the ability to change your mind in accordance with it won&apos;t do much good."/>
                     </outline>
                   </outline>
                 </outline>
                 <outline text="Improvable" heading="3" collapsed="true">
                   <outline text="Open mindedness is determined by mental [habits](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU), and mental habits can almost always be changed." colorLabel="4"/>
                 </outline>
-              </outline>
-              <outline text="Limitations" heading="3" colorLabel="2" collapsed="true">
-                <outline text="The usefulness of open-mindedness is very dependent on knowledge and criticalness." collapsed="true">
-                  <outline text="Criticalness" heading="3" collapsed="true">
-                    <outline text="With insufficient criticalness (and/or insufficient https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=F6oszHuNAfhf9o8bwqy0goGm), it&apos;s going to be very difficult to properly filter the information you recieve and determine what makes the most sense."/>
-                  </outline>
-                  <outline text="Knowledge" heading="3" collapsed="true">
-                    <outline text="If you don&apos;t have the important info in the first place, the ability to change your mind in accordance with it won&apos;t do much good."/>
-                  </outline>
+                <outline text="Difficult" heading="3" collapsed="true">
+                  <outline text="[Difficulty of measuring](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=rA2h7QNAIULbrA_CxFB34k2K)" colorLabel="4"/>
                 </outline>
-                <outline text="[Difficulty of measuring](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=rA2h7QNAIULbrA_CxFB34k2K)"/>
               </outline>
               <outline text="How to view it" heading="3" colorLabel="2" collapsed="true">
                 <outline text="Reasoning abilities are mostly determined by open mindedness, so it is one of the most important things to get right." collapsed="true">
@@ -3195,7 +3197,7 @@
                   </outline>
                 </outline>
               </outline>
-              <outline text="The vast majority of people are very bad at https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=VqyTyvLNbJ6WtfifAe0egZtQ , including many important types" heading="3" colorLabel="1">
+              <outline text="The vast majority of people are very bad at https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=VqyTyvLNbJ6WtfifAe0egZtQ , including many important types" heading="3" colorLabel="1" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="The vast majority of people are very bad at &quot;soft&quot; reasoning, including on many important topics."/>
                 </outline>
@@ -3370,6 +3372,26 @@
                   <outline text="Related" heading="3" colorLabel="6" collapsed="true">
                     <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=IaJGr2lc0A403q27gdXVdcVO" colorLabel="2"/>
                   </outline>
+                </outline>
+              </outline>
+              <outline text="The vast majority of people are very bad at reasoning about topics which they have strong convictions about." heading="3" colorLabel="1">
+                <outline text="Conviction" colorLabel="3" collapsed="true">
+                  <outline text="Convictions—unlike more typical beliefs—are accompanied by emotional commitment and ego preoccupation."/>
+                </outline>
+                <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
+                  <outline text="Common" heading="3" collapsed="true">
+                    <outline text="Attitudes rooted in moral mandates tend to become convictions. ([Source](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Personality%20and%20Social%20Psychology&amp;title=Moral%20conviction:%20Another%20contributor%20to%20attitude%20strength%20or%20something%20more?&amp;author=Linda%20J.%20Skitka&amp;author=Christopher%20W.%20Bauman&amp;author=Edward%20G.%20Sargis&amp;volume=88&amp;publication_year=2005&amp;pages=895-917&amp;pmid=15982112&amp;doi=10.1037/0022-3514.88.6.895&amp;#d=gs_qabs&amp;t=1773413447650&amp;u=%23p%3DhDL4X1UwzXQJ))"/>
+                    <outline text="Tedtable vs distal beliefs" heading="3" collapsed="true">
+                      <outline text="In further writings on the idea that some beliefs can become convictions, [Abelson](https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#B1-jintelligence-11-00027) ([1986](https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#B1-jintelligence-11-00027); [Abelson and Prentice 1989](https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#B3-jintelligence-11-00027)) makes the distinction between what he calls testable beliefs and distal beliefs. Testable beliefs are closely tied to the real world and the words we use to describe that world (e.g., roses are red). They can be verified by observations—sometimes easily made personal observations but other times requiring reliance on the expertise of others and the more sophisticated methods of science. In contrast, distal beliefs cannot be directly verified by experience, nor can they be easily confirmed by turning to experts or scientific consensus. For example, you may think that pharmaceutical companies make excessive profits, or that your state should spend more on mental health and less on green initiatives. Certainly, economic statistics and public policy facts might condition distal beliefs such as these (either strengthening or weakening our attachment to them) but they cannot verify our distal beliefs in the same manner that they can verify testable ones. Many distal beliefs embody our values. When they do, they are apt to become convictions, because they will lead to emotional commitment and ego preoccupation, as argued by [Abelson](https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#B2-jintelligence-11-00027) ([1988](https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#B2-jintelligence-11-00027)). Distal beliefs often derive from a person’s general worldview or, in politics, from their ideology."/>
+                    </outline>
+                    <outline text="Intuitive example" heading="3" colorLabel="6" collapsed="true">
+                      <outline text="Imagine you were on another planet (Zircan), otherwise exactly like Earth, and heard from someone that on planet Zircan roses were never red and were always brown. You would have no trouble acquiring that belief. You would feel no urge to argue with anyone that roses can be red. On planet Zircan, they simply are not, and you would have no trouble giving up your belief that roses can be red. On the other hand, if you were to hear that on planet Zircan it was believed that left-handed people were morally inferior to right-handed people, you likely would not accept that belief and in fact would try to argue against it. You would instead defend your belief that the moral worth of human beings does not depend on whether they are left-handed or right-handed. That belief is a conviction for you in a way that the belief that roses can be red is not."/>
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="The closer beliefs are to convictions, the more poorly calibrated people are—almost always believing that they can provide good arguments for their convictions when in fact they can not. ([Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC3735824/))" _note="Organize"/>
+                <outline text="Source" heading="3" colorLabel="6">
+                  <outline text="This section was essentially entirely taken from https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/#sec7-jintelligence-11-00027"/>
                 </outline>
               </outline>
             </outline>
@@ -4041,6 +4063,11 @@
                   <outline text="[Wikipedia](https://en.wikipedia.org/wiki/Base_rate_fallacy)"/>
                 </outline>
               </outline>
+              <outline text="Myside bias" heading="1" colorLabel="1" collapsed="true">
+                <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
+                  <outline text="A bias toward searching and interpreting evidence in a manner that tends to favor the hypothesis we want to be true."/>
+                </outline>
+              </outline>
               <outline text="Confirmation bias" heading="1" colorLabel="1" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="Finding ways to make new information fit our existing beliefs and preconceptions, and to dismiss information that does not."/>
@@ -4175,7 +4202,7 @@
                   <outline text="The tendency for flaws in reasoning to sort of &quot;even out&quot; for most hypotheses, making the majority&apos;s opinion more reliable usually."/>
                 </outline>
               </outline>
-              <outline text="Anchoring/framing effects" heading="3" colorLabel="1">
+              <outline text="Anchoring/framing effects" heading="3" colorLabel="1" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="The bias to consider values in the context of other presented values."/>
                   <outline text="Example" heading="3" colorLabel="6" collapsed="true">
@@ -6013,6 +6040,20 @@
             <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
               <outline text="When you and the other person are using different definitions, it&apos;s very important to recognize and fix this, otherwise you could end up talking past each other for a long time."/>
             </outline>
+            <outline text="Checking for semantic options" heading="2" colorLabel="3" collapsed="true">
+              <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
+                <outline text="Checking for different ways that a person could be using terminology."/>
+                <outline text="Example: Using a different definition." colorLabel="6"/>
+              </outline>
+              <outline text="Importance" heading="3" colorLabel="2" collapsed="true">
+                <outline text="Impactful" heading="3" collapsed="true">
+                  <outline text="Likely to save a substantial amount of time to catch misunderstandings sooner rather than later."/>
+                </outline>
+              </outline>
+              <outline text="Definitions" heading="2" colorLabel="6" collapsed="true">
+                <outline text="Maybe try to think of all the common definitions that could plausibly be used for the circumstance."/>
+              </outline>
+            </outline>
             <outline text="Types of semantic differences" heading="1" colorLabel="3" collapsed="true">
               <outline text="Different definitions" heading="3" colorLabel="3" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
@@ -6373,11 +6414,11 @@
               </outline>
             </outline>
           </outline>
-          <outline text="Related" heading="3" colorLabel="6">
+          <outline text="Related" heading="3" colorLabel="6" collapsed="true">
             <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=sIhUl5bUKOXpAdiGnystrHw4" heading="3" colorLabel="2"/>
           </outline>
         </outline>
-        <outline text="Misc" heading="1" colorLabel="6">
+        <outline text="Misc" heading="1" colorLabel="6" collapsed="true">
           <outline text="Systematic reasoning" _note="Amateur" heading="1" colorLabel="5" collapsed="true">
             <outline text="Definitions" heading="3" colorLabel="3" collapsed="true">
               <outline text="Thorough, precise reasoning, similar to formal reasoning."/>
@@ -6451,7 +6492,7 @@
                 <outline text="[Overconfidence](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=6dfZL4s3LjJlqjUv7pk86tV4) often causes us to lean towards much more extreme probabilities than we really ought to." colorLabel="4"/>
               </outline>
             </outline>
-            <outline text="Reading between the lines" heading="1" colorLabel="2" collapsed="true">
+            <outline text="Reading between the lines" _note="Move to &quot;understanding others&quot; probably." heading="1" colorLabel="2" collapsed="true">
               <outline text="Definition" heading="3" colorLabel="3"/>
               <outline text="Importance" heading="3" colorLabel="2"/>
               <outline text="Related" heading="3" colorLabel="6" collapsed="true">
@@ -8738,33 +8779,35 @@
                 <outline text="Definition" heading="3" colorLabel="3" collapsed="true">
                   <outline text="Reasoning via voice."/>
                 </outline>
-                <outline text="How to view it" heading="3" colorLabel="2"/>
-                <outline text="Pros / Cons" _note="Organize this in a similar way to how it&apos;s done in &quot;mostly-normal text&quot;, with the single term descriptors for each pro/con." heading="1" colorLabel="2" collapsed="true">
-                  <outline text="Typically easier to ask for quick clarifications." colorLabel="4"/>
-                  <outline text="Typically harder to dehumanize the other person(s) and be unkind." colorLabel="4" collapsed="true">
-                    <outline text="Beneficial because this [dehumanization typically encourages bad reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=AuuzJ03tHDk4T9CCNgjuoP5o)." colorLabel="4" collapsed="true"/>
+                <outline text="Importance / limitations" heading="3" colorLabel="2" collapsed="true">
+                  <outline text="**Clarifications:**  Typically easier to ask for quick clarifications." colorLabel="4"/>
+                  <outline text="**Lower dehumanization:**  Typically harder to dehumanize the other person(s) and be unkind." colorLabel="4" collapsed="true">
+                    <outline text="This [dehumanization typically encourages bad reasoning](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=AuuzJ03tHDk4T9CCNgjuoP5o)" _note="Relevance" colorLabel="4" collapsed="true"/>
+                    <outline text="**Clearer emotions:**  Typically easier to tonally express emotions clearly, and less opportunity for the emotional tone to be misunderstood." _note="Likelihood" colorLabel="4" collapsed="true">
+                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=u9E5oHFZ92jI180s6vkRse7J" colorLabel="1"/>
+                    </outline>
                   </outline>
-                  <outline text="Typically easier to express emotions clearly, and less opportunity for the emotional tone to be misunderstood." colorLabel="4" collapsed="true">
-                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=u9E5oHFZ92jI180s6vkRse7J" colorLabel="1"/>
-                  </outline>
-                  <outline text="Typically harder to know what was previously stated while in the discussion." colorLabel="1" collapsed="true">
+                  <outline text="**Clearer intuition:**  Voice usually offers a better representation of one&apos;s intuition and internal monologue." colorLabel="4"/>
+                  <outline text="**Memory:**  Typically harder to know what exactly was previously stated." colorLabel="1" collapsed="true">
                     <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=JfBoGb4RPZ1Jta4gBVprv24d" colorLabel="4"/>
                     <outline text="This can easily result in unrecognized contradictions or conditions." colorLabel="4"/>
-                  </outline>
-                  <outline text="Typically harder to correct what you said without causing confusion." colorLabel="1" collapsed="true">
-                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=JfBoGb4RPZ1Jta4gBVprv24d" colorLabel="4"/>
-                    <outline text="Especially when the corrections are about things that were stated a while ago." colorLabel="4" collapsed="true">
-                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=JfBoGb4RPZ1Jta4gBVprv24d" colorLabel="4"/>
+                    <outline text="Typically harder to correct what you said without causing confusion." colorLabel="4" collapsed="true">
+                      <outline text="Especially when the corrections are about things that were stated a while ago." _note="Relevance" colorLabel="4" collapsed="true">
+                        <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=JfBoGb4RPZ1Jta4gBVprv24d" colorLabel="4"/>
+                      </outline>
+                      <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=kiO5NCzEPhcheUmzQmMBBav_" colorLabel="1"/>
                     </outline>
-                    <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=kiO5NCzEPhcheUmzQmMBBav_" colorLabel="1"/>
+                    <outline text="Typically vocal reasoning can&apos;t consistently be reused in future discussions." colorLabel="1" collapsed="true">
+                      <outline text="There are transcription apps and stuff that could help." colorLabel="1"/>
+                    </outline>
                   </outline>
-                  <outline text="Typically harder to cover sufficient ground." _note="Fix this up" colorLabel="1" collapsed="true">
+                  <outline text="**Time limit:**  Typically harder to cover sufficient ground." _note="Fix this up" colorLabel="1" collapsed="true">
                     <outline text="Vocal debates, whether between an informal group of people, or formally presented and moderated, are usually too short and rarely revisited."/>
                     <outline text="As such, there is typically far less than the required amount of work done to cover all the relevant and important points, to the final important level of detail."/>
                     <outline text="^ So important [deep dives](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=iFjccGMkfI0qrorobVMX02-i) are often not done." colorLabel="4"/>
                     <outline text="^ And important sources are often left unscrurinized." colorLabel="4"/>
                   </outline>
-                  <outline text="Typically harder to use [notes](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=w6iQmvWJNX7o9-hbY80w4yPN)/sources." colorLabel="1"/>
+                  <outline text="**Sources:**  Typically harder to use [notes](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=w6iQmvWJNX7o9-hbY80w4yPN)/sources." colorLabel="1"/>
                   <outline text="Typically more visceral positive feelings from close mindedness and negative feelings from open mindedness." _note="Expand/change?/fix" colorLabel="1" collapsed="true">
                     <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=GFutbdsy8y_ZSYeuM2DImKue" heading="3" colorLabel="4"/>
                     <outline text="https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=boDt98XXXy6lzU0LPPFOuxPY" _note="Move to emotions from open-/close-mindedness probably." heading="3" colorLabel="4" collapsed="true">
@@ -8772,39 +8815,45 @@
                       <outline text="^ It often feels much more real and like you can feel them (or especially the audience, if there is one) judging your mistakes."/>
                     </outline>
                   </outline>
-                  <outline text="Typically vocal reasoning can&apos;t consistently be reused." colorLabel="1" collapsed="true">
-                    <outline text="There are transcription apps and stuff that could help." colorLabel="1"/>
-                  </outline>
-                  <outline text="Limited number of participants." colorLabel="1" collapsed="true">
+                  <outline text="**Cooperation:**  Limited number of participants." colorLabel="1" collapsed="true">
                     <outline text="Not many (if even more than 1) people can speak at the same time without making it hard to understand what the individuals are saying. So there&apos;s limited knowledge/calculation that can be efficiently drawn upon from the group." colorLabel="4"/>
                     <outline text="Apollo is open to almost everyone, meaning that the amount of available knowledge and human cognition the platform can potentially draw on is much greater." colorLabel="4"/>
                   </outline>
                 </outline>
+                <outline text="How to view it" heading="3" colorLabel="2"/>
               </outline>
               <outline text="Mostly-normal text" heading="1" colorLabel="2" collapsed="true">
                 <outline text="Definition" heading="3" colorLabel="3"/>
                 <outline text="How to view it" heading="3" colorLabel="2"/>
                 <outline text="Importance / limitations" heading="1" colorLabel="2" collapsed="true">
-                  <outline text="Thorough: Typically easier to be thorough than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
-                  <outline text="Systematic: Typically easier to be [systematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7) then in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
-                  <outline text="Context: Typically easier to know what was previously stated." colorLabel="4"/>
-                  <outline text="Systematic: Typically very [unsystematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7)." colorLabel="1" collapsed="true">
+                  <outline text="**Thorough:**  Typically easier to be thorough than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
+                  <outline text="**Systematic:**  Typically easier to be [systematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7) then in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="4"/>
+                  <outline text="**Context:**  Typically easier to know what was previously stated." colorLabel="4"/>
+                  <outline text="**Systematic:**  Typically very [unsystematic](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=XUvhNLQybh6UlJJgJCSnbDU7)." colorLabel="1" collapsed="true">
                     <outline text="Rather than responding point by point to each point that the other person made, people tend to focus more on addressing the &quot;vibes&quot; or apparent &quot;main point&quot;, often missing a lot of important details."/>
                   </outline>
-                  <outline text="Clarification: Typically harder to ask for quick clarifications than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="1" collapsed="true">
+                  <outline text="**Clarification:**  Typically harder to ask for quick clarifications than in https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n discussions." colorLabel="1" collapsed="true">
                     <outline text="People often write long messages when reasoning about important topics via text, and others can&apos;t see the messages mid-formulation."/>
                   </outline>
-                  <outline text="Kindness: Typically easier to dehumanize the other person(s) and be unkind than in [vocal discussions](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n)" colorLabel="1" collapsed="true">
+                  <outline text="**Kindness:**  Typically easier to dehumanize the other person(s) and be unkind than in [vocal discussions](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n)" colorLabel="1" collapsed="true">
                     <outline text="Our empathy likely evolved to rely on audible tones a substantial amount." _note="Likelihood" colorLabel="4"/>
                     <outline text="Beneficial because dehumanization and unkindness of this kind typically encourages bad reasoning, both directly and indirectly." _note="Relevance" colorLabel="4" collapsed="true">
                       <outline text="Indirectly via encouraging the other person to respond in kind."/>
                     </outline>
                   </outline>
-                  <outline text="Emotion: Compared to [vocal discussions](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n), it is typically harder to express/read emotions well." colorLabel="1" collapsed="true">
+                  <outline text="**Emotion:**  Compared to [vocal discussions](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=G1iy3M7QYVTcnJLmWkvOH-7n), it is typically harder to express/read emotions well." colorLabel="1" collapsed="true">
                     <outline text="There are more opportunities for the emotional tone to be misread." _note="Likelihood" colorLabel="4"/>
-                    <outline text="This is largely unimportant for reasoning." _note="Relevance" colorLabel="1"/>
+                    <outline text="In itself, this is largely unimportant for reasoning." _note="Relevance" colorLabel="1" collapsed="true">
+                      <outline text="Better understanding emotions to the degree that this typically offers doesn&apos;t result in a much better understanding of the relevant reasoning." _note="Likelihood" colorLabel="4"/>
+                    </outline>
+                    <outline text="When combined with sufficient knowledge/guidance of [how to avoid arguing while trying to get to know someone&apos;s motivations], understanding another&apos;s emotions better often makes one less defensive and more open minded towards that person." _note="Relevance | Link and move" colorLabel="4" collapsed="true">
+                      <outline text="The success of [the Enemies Project](https://www.enemiesproject.org/) indicates that with sufficient guidance, this is possible." _note="Likelihood" colorLabel="4" collapsed="true">
+                        <outline text="The guidance offers reminders/targeted education, but knowledge and https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=mwz5Ve2BffIKD_YiMRN4SJOU could achieve the same effect." _note="Relevance" colorLabel="4"/>
+                      </outline>
+                      <outline text="Open-mindedness [is important](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=3JYkrvEjUHYENVJaDqFSq3Cd)." _note="Relevance" colorLabel="4"/>
+                    </outline>
                   </outline>
-                  <outline text="Deep dive: It is hard to [dive deep](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=iFjccGMkfI0qrorobVMX02-i) into a single point without seeming to change the subject in a negative way." colorLabel="1"/>
+                  <outline text="**Deep dive:**  It is hard to [dive deep](https://dynalist.io/d/nBfl0bh1yEuK5cktkexuu8Xd#z=iFjccGMkfI0qrorobVMX02-i) into a single point without seeming to change the subject in a negative way." colorLabel="1"/>
                 </outline>
                 <outline text="Types" heading="1" colorLabel="5" collapsed="true">
                   <outline text="Short text" heading="3" colorLabel="5" collapsed="true">
